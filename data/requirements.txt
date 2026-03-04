@@ -1,0 +1,14 @@
+# Core numerical stack
+numpy>=1.23,<2.0
+pandas>=1.5,<3.0
+scipy>=1.10,<2.0
+
+# Machine learning
+tensorflow>=2.13,<2.16
+scikit-learn>=1.2,<2.0
+
+# Visualization
+matplotlib>=3.7,<4.0
+
+# Optional but useful
+tqdm>=4.65
