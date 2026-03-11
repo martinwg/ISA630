@@ -1,0 +1,111 @@
+﻿id,comment_text,toxic,threat,pii_leak,harassment,urgent
+1001,"If I don't get my refund by Friday, I'm coming to the headquarters to break some heads. You've been warned.",1,1,0,0,1
+1002,"The support agent, Michael Thompson, is a brainless moron who shouldn't be allowed to work with people.",1,0,0,1,0
+1003,My account is hacked! My email is waldyn.m@example.com and my password was Password123. Help me now!,0,0,1,0,1
+1004,I am so happy with the service! The team was very professional and solved my issue in minutes.,0,0,0,0,0
+1005,You people are pathetic. I hope your office burns down with all you losers inside.,1,1,0,0,0
+1006,I've been on hold for 4 hours. My business is losing $1000 an hour. Fix this immediately or I sue.,0,0,0,0,1
+1007,Tell Sarah at the front desk she's a disgusting person. I'm going to post her home address online.,1,1,1,1,1
+1008,"Why is my bill $400? I live at 123 Maple St, Oxford, OH and my account number is 889900. Explain this.",0,0,1,0,1
+1009,Your software is a piece of trash. I'm switching to your competitor tomorrow morning.,1,0,0,0,0
+1010,I will hunt down the person who authorized this charge and make sure they never work in this town again.,1,1,0,1,1
+1011,Just checking in to see if the new shipment of guitars arrived. Thanks!,0,0,0,0,0
+1012,Stop calling my cell phone. This is harassment. I am reporting your company to the Better Business Bureau.,0,0,0,1,1
+1013,"You guys are doing a great job, keep it up!",0,0,0,0,0
+1014,If you don't cancel my subscription I will find out where you live and haunt your dreams.,1,1,0,0,0
+1015,My credit card ending in 4452 was charged twice. This is urgent as I need that money for rent.,0,0,1,0,1
+1016,I'm going to scream. Your automated system is the worst invention in human history.,1,0,0,0,0
+1017,"You better watch your back when you leave the office today, you incompetent thief.",1,1,0,1,0
+1018,Can I speak to a supervisor? This agent is being very rude and calling me names.,0,0,0,1,1
+1019,I am filing a formal complaint against the manager. He is a sexist pig and should be fired.,1,0,0,1,0
+1020,My SSN is 112-00-4455. I shouldn't have to give this over chat but you guys are making it impossible.,0,0,1,0,1
+1021,This is the fifth time I've asked. Cancel it now or face the consequences.,0,0,0,0,1
+1022,I hope you all get fired and your kids have a terrible Christmas.,1,0,0,0,0
+1023,Your product caused a fire in my kitchen! I'm calling the news and the fire department.,0,0,0,0,1
+1024,Tell the developer who wrote this code that they are a total failure at life.,1,0,0,1,0
+1025,I'm going to leak the internal memo I found on your server if you don't pay me $500.,1,1,1,0,1
+1026,The delivery driver was so kind and even helped me carry the boxes inside.,0,0,0,0,0
+1027,I am so angry I could throw this computer out the window. Fix the login bug!,1,0,0,0,1
+1028,You guys stole my money. I'm going to make it my life's mission to destroy your reputation.,1,1,0,0,0
+1029,Is there a way to update my address? I moved from Cincinnati to Oxford recently.,0,0,1,0,0
+1030,You are all a bunch of clowns. This company is a circus.,1,0,0,0,0
+1031,I am going to bring a weapon to the store if you don't give me my store credit.,1,1,0,0,1
+1032,The agent kept making inappropriate comments about my accent. This is harassment.,0,0,0,1,1
+1033,Great experience today at the Oxford branch. Highly recommend!,0,0,0,0,0
+1034,I'm posting your CEO's private cell phone number on Twitter right now. Enjoy the spam.,1,0,1,1,1
+1035,Help! My house is flooding because the smart valve failed. Answer the phone!,0,0,0,0,1
+1036,You are a disgusting human being. I hope you choke on your lunch.,1,1,0,1,0
+1037,I don't understand the instructions. Can you send a PDF manual?,0,0,0,0,0
+1038,Your terms of service are a scam. You are all criminals and belong in jail.,1,0,0,0,0
+1039,I will find where the server farm is located and shut it down myself by force.,1,1,0,0,0
+1040,My birth date is June 20 1999. Why can't you verify my identity with that?,0,0,1,0,1
+1041,I'm going to stalk your LinkedIn profile until I find your boss.,0,0,0,1,0
+1042,I hate this company. I hate your logo. I hate everything you stand for.,1,0,0,0,0
+1043,The package arrived empty. This is theft! I want a replacement overnighted.,0,0,0,0,1
+1044,You little brat. How dare you talk back to a paying customer.,1,0,0,1,0
+1045,I'm going to blow up your support forums with spam until you respond to my ticket.,1,1,0,0,1
+1046,Is there a discount for students at Miami University?,0,0,0,0,0
+1047,"You are a fat, ugly loser. Go get a real job.",1,0,0,1,0
+1048,My medical records were attached to the last email by mistake. Delete them immediately!,0,0,1,0,1
+1049,"I'll see you in court, you thieving scumbags.",1,0,0,0,1
+1050,I'm going to end it all if you don't help me with my debt. This is my last message.,1,1,0,0,1
+2001,"If this issue isn't resolved today, I will escalate it to every regulator I know.",0,0,0,0,1
+2002,Your representative John Davis was extremely rude and should be fired immediately.,1,0,0,1,0
+2003,My login failed again. My username is jdavis88 and my backup email is jdavis@gmail.com.,0,0,1,0,1
+2004,Excellent service today. Really appreciate the quick turnaround.,0,0,0,0,0
+2005,You idiots messed up my order again. Totally incompetent staff.,1,0,0,1,0
+2006,Fix this now. My warehouse is shut down and losing money every minute.,0,0,0,0,1
+2007,I'm going to come down there personally and make someone pay for this.,1,1,0,0,1
+2008,Why was I charged twice? My card ends in 8891.,0,0,1,0,1
+2009,Your platform is garbage and unusable.,1,0,0,0,0
+2010,Cancel this immediately or there will be consequences.,0,1,0,0,1
+2011,Just checking if the invoice was processed. Thanks!,0,0,0,0,0
+2012,Stop emailing me nonstop. This is harassment.,0,0,0,1,1
+2013,Fantastic onboarding experience for our team.,0,0,0,0,0
+2014,If you don't respond I will track down your office location.,1,1,0,0,0
+2015,My routing number is 021000021. Please process ASAP.,0,0,1,0,1
+2016,Your chatbot is the dumbest system ever built.,1,0,0,0,0
+2017,Watch your back leaving work today.,1,1,0,1,0
+2018,Can I speak with a supervisor? I'm very dissatisfied.,0,0,0,0,1
+2019,The manager insulted me repeatedly. Completely unacceptable.,1,0,0,1,0
+2020,My SSN is 443-22-9988. I hate sharing this.,0,0,1,0,1
+2021,This is the third request. Please act now.,0,0,0,0,1
+2022,I hope this company goes bankrupt.,1,0,0,0,0
+2023,Your defective product damaged my office.,0,0,0,0,1
+2024,Tell your developer they clearly have no clue what they're doing.,1,0,0,1,0
+2025,I'll release internal screenshots unless compensated.,1,1,1,0,1
+2026,Delivery was smooth and professional.,0,0,0,0,0
+2027,Fix the payment bug now. I'm furious.,1,0,0,0,1
+2028,You stole from me and I will ruin your reputation.,1,1,0,0,0
+2029,I moved recently. Can you update my address?,0,0,1,0,0
+2030,This company is a complete joke.,1,0,0,0,0
+2031,Give me store credit or I'll make a scene.,1,1,0,0,1
+2032,The agent mocked my accent repeatedly.,0,0,0,1,1
+2033,Great experience at your downtown branch.,0,0,0,0,0
+2034,Posting your employee contact list online right now.,1,0,1,1,1
+2035,Emergency: my system crashed during payroll processing.,0,0,0,0,1
+2036,You are disgusting and unprofessional.,1,0,0,1,0
+2037,Could you resend the installation manual?,0,0,0,0,0
+2038,Your company is fraudulent.,1,0,0,0,0
+2039,I'll shut down your servers myself if this continues.,1,1,0,0,0
+2040,"My birth date is May 3, 1985. Why can't you verify me?",0,0,1,0,1
+2041,I will report this harassment formally.,0,0,0,1,0
+2042,I despise everything about this service.,1,0,0,0,0
+2043,Shipment arrived damaged. Need replacement today.,0,0,0,0,1
+2044,Don't talk back to customers like that.,1,0,0,1,0
+2045,I'll spam every support channel until answered.,1,1,0,0,1
+2046,Do you offer student discounts?,0,0,0,0,0
+2047,You're lazy and incompetent.,1,0,0,1,0
+2048,My insurance file was sent accidentally. Remove immediately.,0,0,1,0,1
+2049,See you in court.,1,0,0,0,1
+2050,Answer now or I escalate legally.,0,1,0,0,1
+2051,The onboarding team was wonderful.,0,0,0,0,0
+2052,Stop harassing me with calls.,0,0,0,1,1
+2053,I'm documenting this whole situation publicly.,0,0,0,0,1
+2054,I will make sure everyone knows how bad this is.,1,0,0,0,0
+2055,Your team lost my files again.,0,0,0,0,1
+2056,You're useless.,1,0,0,0,0
+2057,Please close my account immediately.,0,0,0,0,1
+2058,The service today was outstanding.,0,0,0,0,0
+2059,I will expose your internal data practices.,1,1,1,0,1
+2060,Your staff member insulted me repeatedly.,1,0,0,1,0
